@@ -59,7 +59,12 @@ body {
 .options i{
   cursor: pointer;
 }
-
+.no-task{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+margin-top: 50%;
+}
 #errorMsg {
   color: red;
 }
